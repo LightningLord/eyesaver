@@ -1,24 +1,16 @@
 # Eyesaver
 
-TODO: Write a gem description
+Simple reminder gem to save your eyes. Based on the 20-20-20 guideline.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'eyesaver'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install eyesaver
+  $ gem install eyesaver
 
 ## Usage
 
-TODO: Write usage instructions here
+Eyesaver.run!
+
+You will be reminded every 20 minutes to rest your eyes by a browser window.
 
 ## Contributing
 
