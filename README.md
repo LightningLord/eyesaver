@@ -4,11 +4,11 @@ Simple reminder gem to save your eyes. Based on the 20-20-20 guideline.
 
 ## Installation
 
-  $ gem install eyesaver
+`$ gem install eyesaver`
 
 ## Usage
 
-Eyesaver.run!
+`Eyesaver.run!`
 
 You will be reminded every 20 minutes to rest your eyes by a browser window.
 
